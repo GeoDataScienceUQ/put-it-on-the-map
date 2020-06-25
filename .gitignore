@@ -4,7 +4,7 @@ __pycache__/*
 data/*
 models/*
 outputs/workflow.pptx
-submission/*
+submissions/*
 old_versions/*
 put-it-on-the-map/*
 jjj.py
