@@ -10,7 +10,7 @@ Goal: retrieve map lattitude and longitude coordinates
 
 Database: 40k images with known coordinates for training and 10k images for testing
 
-Example maps:
+Example maps (different map-style, resolution and annotations):
 <p align="center">
   <img src="map_examples/00ec31ca1e.png" width="200" title="hover text">
   <img src="map_examples/00bd4a1ea6.png" width="200" title="hover text">
