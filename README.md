@@ -7,6 +7,7 @@ link to the contest: https://www.xstarter.io/challenge-details/put-it-on-the-map
 </p>
 
 Goal: retrieve map lattitude and longitude coordinates
+
 Database: 40k images with known coordinates for training and 10k images for testing
 
 Example maps:
