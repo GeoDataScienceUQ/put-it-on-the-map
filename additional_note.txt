@@ -1,0 +1,4 @@
+Installation informations for additional packages for python3 environment are at the begining of Training notebook.
+This notebooks uses multiprocessing for efficient computation, it may cause problems with interactive jupyter notebookfor some operating system. 
+Converting the jupyter in python script "jupyter nbconvert --to python <your_notebook>.ipynb" and executing it "python <your_notebook>.py" would solve it.
+Please let me know if you encounter any issue.
