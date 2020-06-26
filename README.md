@@ -17,6 +17,8 @@ Example maps (different map-styles, resolutions and annotations):
   <img src="map_examples/00f6fe95ce.png" width="200" title="hover text">
 </p>
 
+Download the training and test data from the contest website
+
 Workflow of the proposed solution:
 
 * encoding images using transfert learning from pretrained ResNet model on a geographic zones classification task (Figure 1 shown above)
