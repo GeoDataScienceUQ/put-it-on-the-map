@@ -26,7 +26,7 @@ Workflow of the proposed solution:
 * retrieving the closest image to the one to identify in that feature space using Locality Sensitive Hashing for fast approximate nearest neighbor
 
 ### Set up the environment
-Run 'pip install -r requirements.txt'
+Run $ pip install -r requirements.txt
 
 ### Training
 Run the notebook Find_similar_images_Training_submissionFinal.ipynb to access the solution
