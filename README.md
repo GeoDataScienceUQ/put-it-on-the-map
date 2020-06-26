@@ -45,10 +45,4 @@ Run the notebook Find_similar_images_Inference_submissionFinal.ipynb to apply th
   <img src="outputs/Closest_images_38249.JPG" width="600" title="hover text">
 </p>
 
-Random examples:
-
-<video width="600" controls>
-  <source src="outputs/closest_images_video.mp4" type="video/mp4">
-</video>
-
 Once your model is trained run several the last cell of Find_similar_images_Training_submissionFinal.ipynb notebook to see more random examples.
