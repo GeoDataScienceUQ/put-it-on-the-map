@@ -25,4 +25,11 @@ Workflow of the proposed solution:
 * binary hash images of training images in 512 feature space
 * retrieving the closest image to the one to identify in that feature space using Locality Sensitive Hashing for fast approximate nearest neighbor
 
+### Set up the environment
+Run 'pip install -r requirements.txt'
+
+### Training
 Run the notebook Find_similar_images_Training_submissionFinal.ipynb to access the solution
+
+### Inference
+Run the notebook Find_similar_images_Inference_submissionFinal.ipynb to apply the trained models to the test database
