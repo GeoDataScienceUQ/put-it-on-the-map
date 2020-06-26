@@ -5,6 +5,7 @@ data/*
 models/*
 outputs/workflow.pptx
 outputs/closest_images_video.mp4
+outputs/Screen_example.pptx
 submissions/*
 old_versions/*
 put-it-on-the-map/*
