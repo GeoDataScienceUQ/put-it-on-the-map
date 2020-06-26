@@ -4,6 +4,7 @@ __pycache__/*
 data/*
 models/*
 outputs/workflow.pptx
+outputs/closest_images_video.mp4
 submissions/*
 old_versions/*
 put-it-on-the-map/*
