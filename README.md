@@ -40,9 +40,9 @@ Run the notebook Find_similar_images_Inference_submissionFinal.ipynb to apply th
 3 random examples of closest images:
 
 <p align="center">
-  <img src="outputs/Closest_images_35387.jpg" width="600" title="hover text">
-  <img src="outputs/Closest_images_36889.jpg" width="600" title="hover text">
-  <img src="outputs/Closest_images_38249.jpg" width="600" title="hover text">
+  <img src="outputs/Closest_images_35387.JPG" width="600" title="hover text">
+  <img src="outputs/Closest_images_36889.JPG" width="600" title="hover text">
+  <img src="outputs/Closest_images_38249.JPG" width="600" title="hover text">
 </p>
 
 Once your model is trained run several the last cell of Find_similar_images_Training_submissionFinal.ipynb notebook to see more random examples.
